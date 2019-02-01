@@ -31,4 +31,4 @@ ii. Run ros_wrapper.py
 
 6. Documentation
 
-  - Please visit the documentation of the project.
+  - Please visit the documentation of the project. [index.html in html folder]
