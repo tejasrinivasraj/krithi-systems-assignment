@@ -23,3 +23,7 @@ ii. Run ros_wrapper.py
 4. Usecase
 
   - Provide the statement with it's class using logistic regression.
+
+5. Figures
+  
+  - Comparision of binary classification and multi-class classification [Multinomial Logistic Regression]. Andrew Ng proposed to use Logistic Regression for multi class classification problem.
