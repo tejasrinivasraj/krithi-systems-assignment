@@ -15,6 +15,7 @@ pandas - 0.20.3
 i. Run app.py
   - Provide an input statement which will be predicted into classes(Affirmation, When, What, Unknown)
   - Displays the class of the given statement.
+
 ii. Run ros_wrapper.py
   - Provide an input statement to the node.
   - Continuously displays the status of the node until Ctrl+C.
