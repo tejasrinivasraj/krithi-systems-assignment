@@ -3,12 +3,12 @@ Classifying  and unknown question to its respective class.
 
 1. Introduction
 
-This task is about classifying the given set of sentences and predict the class of an unknown sentence.
+  - This task is about classifying the given set of sentences and predict the class of an unknown sentence.
 
 2. Requirements
 
-sklearn - 0.19.1
-pandas - 0.20.3
+  - sklearn - 0.19.1
+  - pandas - 0.20.3
 
 3. Contents
 
