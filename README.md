@@ -1,5 +1,5 @@
 # krithi-systems-assignment
-Classifying  and unknown question to its respective class.
+Classifying  an unknown question to its respective class.
 
 1. Introduction
 
